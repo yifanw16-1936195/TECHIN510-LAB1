@@ -1,5 +1,9 @@
 # TECHIN 510 Lab 1
 
+## Hosted Portfolio Link
+
+https://techin510-lab1-yifanwang.streamlit.app/
+
 ## Overview
 
 Yifan Wang's personal website for TECHIN 510 Lab 1.
