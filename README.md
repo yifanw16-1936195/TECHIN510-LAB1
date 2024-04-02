@@ -1,4 +1,6 @@
-# TECHIN 510 Lab 1
+# TECHIN 510 Lab 2: Streamlit cont’d
+
+## Author: Yifan Wang
 
 ## Hosted Portfolio Link
 
@@ -6,23 +8,16 @@ https://techin510-lab1-yifanwang.streamlit.app/
 
 ## Overview
 
-Yifan Wang's personal website for TECHIN 510 Lab 1.
+Create a web app that reads a dataset and displays interesting data visualizations about the dataset
 
-## How to run
+## Features
 
-Open the terminal and run the following commands:
-```
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
+- Use text content widgets to write a title and introduction to your data analysis
+- Use slider, dropdown, select widgets to filter data
+- Use chart and maps to visualize data
 
-## Lessons learned
+## Optional Lab & Bonus
 
-- Developing a basic web interface with Flask for user interaction.
-- Utilizing requirements.txt for efficient management of project dependencies.
-- Implementing CI/CD pipelines with GitHub Actions for Azure deployments.
-
-## Questions
-- How can I customize the appearance of elements, like making profile pictures circular?
-- What are the best practices for implementing a multi-column layout in a web application?
+- Create a world clock app, the user should be able to select multiple cities, and the clock should update every second.
+- Include a UNIX timestamp display
+- Include a separate page for converting UNIX timestamp to Human time
