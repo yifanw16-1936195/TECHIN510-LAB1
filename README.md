@@ -2,10 +2,6 @@
 
 ## Author: Yifan Wang
 
-## Hosted Portfolio Link
-
-https://techin510-lab1-yifanwang.streamlit.app/
-
 ## Overview
 
 Create a web app that reads a dataset and displays interesting data visualizations about the dataset
